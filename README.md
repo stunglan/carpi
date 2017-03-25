@@ -1,2 +1,2 @@
 # carpi
-A rapberry pi in my car
+A raspberry pi in my car
